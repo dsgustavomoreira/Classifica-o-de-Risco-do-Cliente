@@ -1,2 +1,2 @@
-# Classifica-o-de-Risco-do-Cliente
+# Classificação de Risco do Cliente
 Utilização dos algoritmos KNN e SVC
