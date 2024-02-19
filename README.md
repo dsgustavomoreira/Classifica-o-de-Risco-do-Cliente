@@ -1,2 +1,2 @@
 # Classificação de Risco do Cliente
-Utilização dos algoritmos KNN e SVC
+Classificação de Risco do Cliente com Algoritmos k-Nearest Neighbors(KNN) e Support Vector Machine - Classifier (SVC)
